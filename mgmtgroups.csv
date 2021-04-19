@@ -1,0 +1,9 @@
+layer1,layer2,layer3,layer4,layer5,subs
+L1A,,,,,
+L1A,L2A,,,,"subid,subid2"
+L1A,L2A,L3A,,,
+L1A,L2A,L3A,L4A,,
+L1A,L2A,L3A,L4A,L5A,"sibid3,subid4"
+L1B,,,,,
+L1B,L2B,,,,
+L1B,L2B,L3B,,,
